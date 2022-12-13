@@ -1,0 +1,5 @@
+# lspv_location_data
+These data comprise the full set of locations used for the Energy Policy journal paper entitled, Shedding light on large-scale solar impacts: an analysis of property values and proximity to photovoltaics across six U.S. states. 
+The file contains data for approximately 1,600 sites (i.e., rows) of large-scale solar development in CA, CT, MA, MN, NC, and NJ. 
+The fields (i.e., columns) included are Energy Information Administration ID (eia_id), state, estimated coverage area of panels in square meters (area_m2), the year the project became operational (plant_year), the x/y coordinates of an approximate project centroid (longitude & latitude), and a suite of coverages of land covers as of 2010. 
+The land covers are drawn for the USGS National Land Cover Database. We provide percentage coverage among the following land cover types: open water; developed, open space; developed, low intensity; developed, medium intensity; developed, high intensity; barren land; deciduous forest; evergreen forest; mixed forest; shrub/scrub; herbaceous; hay/pasture; cultivated crops; woody wetlands; and, emergent herbaceous wetlands.
