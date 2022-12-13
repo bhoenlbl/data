@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: >-
+  bhoenlbl/lspv_location_data: Large Scale PV Locations, Attributes and Ground Cover for Energy Policy
+message: >-
+  If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - given-names: Salma
+    family-names: Elmallah
+    affiliation: Lawrence Berkeley National Laboratory
+    email: salmae@lbl.gov
+  - given-names: Ben
+    family-names: Hoen
+    email: bhoen@lbl.gov
+    affiliation: Lawrence Berkeley National Laboratory
+  - given-names: Sydny
+    family-names: Fujita
+    affiliation: Lawrence Berkeley National Laboratory
+version: lspvp_locations_v1.0
+date-released: 2022-12-13
+url: 
